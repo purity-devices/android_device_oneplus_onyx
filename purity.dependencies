@@ -28,8 +28,8 @@
     "revision": "cm-13.0"
   },
   {
-    "repository": "android_vendor_oneplus_onyx",
-    "target_path": "vendor/oneplus/onyx",
+    "repository": "android_vendor_oneplus",
+    "target_path": "vendor/oneplus",
     "revision": "android-m"
   }
 ]
